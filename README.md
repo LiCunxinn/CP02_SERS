@@ -61,9 +61,9 @@ Este dataset contém dados de produção de energia eólica, com informações s
 
 ## Integrantes
 
-Nome: Guilherme Spranger dos Santos  RM: 564059
-Nome: Gustavo Lemos Diógenes         RM: 565579 
-Nome: Pedro Paulo Barbosa Ross       RM: 563038
-Nome: Samuel de Souza Jorge          RM: 558966
+- Guilherme Spranger dos Santos  | 564059
+- Gustavo Lemos Diógenes         | 565579 
+- Pedro Paulo Barbosa Ross       | 563038
+- Samuel de Souza Jorge          | 558966
 
 ---
