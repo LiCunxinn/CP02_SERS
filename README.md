@@ -1,4 +1,4 @@
-# Atividade - Previsão de Energia Solar e Eólica
+# Checkpoint 02: Casos de Uso de ML - Energia Eólica e Energia Solar
 
 ## Instruções da Entrega
 - A atividade pode ser desenvolvida em grupo.  
