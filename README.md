@@ -3,7 +3,7 @@
 ## Instruções da Entrega
 - A atividade pode ser desenvolvida em grupo.  
 - Apenas um integrante deve submeter o arquivo.  
-- Enviar apenas o link do repositório.  
+- **Enviar apenas o link do repositório.** Não envie arquivos .txt ou .pdf.  
 
 ---
 
