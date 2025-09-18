@@ -7,6 +7,15 @@
 
 ---
 
+## Integrantes
+
+- Guilherme Spranger dos Santos  | 564059
+- Gustavo Lemos Diógenes         | 565579 
+- Pedro Paulo Barbosa Ross       | 563038
+- Samuel de Souza Jorge          | 558966
+
+---
+
 ## Dataset 1: Solar Radiation Prediction
 
 **Descrição**:  
@@ -56,14 +65,5 @@ Este dataset contém dados de produção de energia eólica, com informações s
 | Date/Time        | LV ActivePower (kW) | Wind Speed (m/s) | Theoretical_Power_Curve (KWh) | Wind Direction (°) |
 |------------------|----------------------|------------------|-------------------------------|---------------------|
 | 01 01 2018 00:00 | 380.05              | 5.31             | 416.33                        | 259.99              |
-
----
-
-## Integrantes
-
-- Guilherme Spranger dos Santos  | 564059
-- Gustavo Lemos Diógenes         | 565579 
-- Pedro Paulo Barbosa Ross       | 563038
-- Samuel de Souza Jorge          | 558966
 
 ---
