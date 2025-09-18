@@ -58,3 +58,12 @@ Este dataset contém dados de produção de energia eólica, com informações s
 | 01 01 2018 00:00 | 380.05              | 5.31             | 416.33                        | 259.99              |
 
 ---
+
+## Integrantes
+
+Nome: Guilherme Spranger dos Santos  RM: 564059
+Nome: Gustavo Lemos Diógenes         RM: 565579 
+Nome: Pedro Paulo Barbosa Ross       RM: 563038
+Nome: Samuel de Souza Jorge          RM: 558966
+
+---
