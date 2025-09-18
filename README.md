@@ -1,18 +1,18 @@
 # Checkpoint 02: Casos de Uso de ML - Energia Eólica e Energia Solar
 
-## Instruções da Entrega
-- A atividade pode ser desenvolvida em grupo.  
-- Apenas um integrante deve submeter o arquivo.  
-- **Enviar apenas o link do repositório.** Não envie arquivos .txt ou .pdf.  
-
----
-
 ## Integrantes
 
 - Guilherme Spranger dos Santos  | 564059
 - Gustavo Lemos Diógenes         | 565579 
 - Pedro Paulo Barbosa Ross       | 563038
 - Samuel de Souza Jorge          | 558966
+
+---
+
+## Instruções da Entrega
+- A atividade pode ser desenvolvida em grupo.  
+- Apenas um integrante deve submeter o arquivo.  
+- **Enviar apenas o link do repositório.** Não envie arquivos .txt ou .pdf.  
 
 ---
 
